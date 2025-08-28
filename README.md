@@ -8,7 +8,7 @@ The analysis demonstrates how DNS records, ICMP behavior, and raw packet data ca
 ## 📄 Project Report
 You can view the detailed report in the PDF below:
 
-[📑 Download Report](Network_Traffic_Analysis_Wireshark_Project2.pdf)
+[📑 Download Report](Network Traffic Analysis using Wireshark - Cybersecurity Project2.pdf)
 
 ---
 
