@@ -1,20 +1,27 @@
 # Network Traffic Analysis using Wireshark - Cybersecurity Project 2
 
-This project focuses on analyzing network traffic using **Wireshark** to identify differences between legitimate and potentially malicious packets.  
-The analysis demonstrates how DNS records, ICMP behavior, and raw packet data can be inspected to understand whether traffic is normal or suspicious.
+## 🔎 Overview
+This project focuses on analyzing network traffic using **Wireshark** to identify the differences between legitimate and malicious packets.  
+By inspecting packet-level details such as DNS records, HTTP/HTTPS traffic, and raw payloads, we explored how attackers may hide data and how unusual patterns can signal threats.
 
----
+## 🎯 Objectives
+- Understand how Wireshark captures and displays packets.  
+- Differentiate between **legitimate traffic** (e.g., DNS queries, HTTP/HTTPS requests) and **malicious traffic** (e.g., suspicious payloads, unusual highlights, malformed packets).  
+- Gain hands-on experience with interpreting raw packet data using Wireshark.  
+- Document findings in a structured report for cybersecurity learning.
 
-## 📄 Project Report
-You can view the detailed report in the PDF below:
+## 🛠 Tools Used
+- **Wireshark** – For packet capture and analysis  
+- **PCAP files** – To simulate real-world traffic scenarios 
 
-[📑 Download Report](Network Traffic Analysis using Wireshark - Cybersecurity Project2.pdf)
-
----
+## Find the detailed Project in the attached PDF. "Network Traffic Analysis using Wireshark - Cybersecurity Project2.pdf"
 
 ## 🔍 Key Learnings
 - Basics of packet capturing and analysis with Wireshark.  
 - Difference between **A Records** and **HTTPS Records** in DNS responses.  
 - Identifying unusual/malicious packets based on missing or abnormal data.  
-- Understanding how ICMP behavior varies across websites.  
+- Understanding how ICMP behavior varies across websites.
+
+---
+✍️ *This project was created as part of my cybersecurity learning journey.*
 
