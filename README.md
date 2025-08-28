@@ -1,4 +1,4 @@
-# Network Traffic Analysis using Wireshark - Cybersecurity Project 2
+# Network Traffic Analysis using Wireshark - Beginner Cybersecurity Project
 
 ## 🔎 Overview
 This project focuses on analyzing network traffic using **Wireshark** to identify the differences between legitimate and malicious packets.  
